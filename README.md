@@ -1,7 +1,8 @@
 # PySDIA
 PySDIA - Python Solar Disc Image Alignment
-Automatic alignment of solar disk images and accurate determination of heliographic coordinates sunspot analysis
-PySDIA aligns and rotates images of the solar disk taken by simple small-aperture telescopes with variable mounting in order to accurately determine the heliographic coordinates of sunspots in self-images.
+
+Alinhamento automático de imagens de disco solar e determinação precisa de coordenadas heliográficas, análise de manchas solares
+PySDIA alinha e gira imagens do disco solar obtidas por telescópios simples de pequena abertura com montagem variável, a fim de determinar com precisão as coordenadas heliográficas das manchas solares em imagens próprias do disco solar.
 
 For the installation of open cv go to: https://docs.opencv.org/4.x/da/df6/tutorial_py_table_of_contents_setup.html
 
@@ -10,3 +11,5 @@ For the installation of Hvpy go to: https://hvpy.readthedocs.io/en/latest/instal
 For the installation of Sunpy go to: https://docs.sunpy.org/en/stable/installation.html
 
 For the istallation of Rembg: 7https://github.com/danielgatis/rembg
+
+# Um conjunto de imagens para teste podem ser encontrado nesse link: https://drive.google.com/drive/folders/1XQYCJd-qCJ0bUuximfGVaPklFo5QIv-M?usp=sharing
